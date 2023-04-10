@@ -1,0 +1,53 @@
+.add-btn {
+    background-color:green;
+    color:white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+  }
+  
+  .update-btn {
+    background-color: yellow;
+    color:black;
+  }
+
+  .btn-delete {
+    color: #fff;
+    background-color:darkmagenta;
+    border-color: darkmagenta;
+  }
+
+  .btn-edit{
+    color: black;
+    background-color:aquamarine;
+    border-color: aquamarine;
+  }
+
+  .my-h1 {
+    color: white;
+    text-align: left;
+    padding-left: 7.5%;
+    padding-top: 2%;
+  }
+
+  .form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+  }
+  
+  .form label {
+    color: white;
+    margin-right: 10px;
+    flex-shrink: 0;
+    width: 120px;
+  }
+  
+  .form input {
+    background-color: #444;
+    color: white;
+    flex-grow: 1;
+    max-width: 90%;
+  }
